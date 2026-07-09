@@ -182,8 +182,6 @@ The project is designed to identify insights such as:
 
 ## Project Status
 
-Current status: Phase 1 — Business requirements and project documentation.
-
 Planned phases:
 
 * Phase 1: Business requirements
