@@ -1,4 +1,3 @@
-# retail-revenue-intelligence-dashboard
 
 # Retail Revenue Intelligence Dashboard
 
@@ -78,7 +77,6 @@ The dataset contains the following files:
 | Data generation                 | Python           |
 | Data storage and transformation | DuckDB / SQL     |
 | Dashboarding                    | Power BI Desktop |
-| Documentation                   | Markdown         |
 | Version control                 | GitHub           |
 
 ## Dashboard Pages
