@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# DuckDB generated database files
+*.duckdb
+*.duckdb.wal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.tmp
+*.log
