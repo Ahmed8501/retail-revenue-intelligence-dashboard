@@ -1,0 +1,31 @@
+store_id,store_name,city,region,store_type
+STORE-001,Cairo Store 1,Cairo,North,Outlet
+STORE-002,Zagazig Store 2,Zagazig,South,Physical Store
+STORE-003,Hurghada Store 3,Hurghada,South,Physical Store
+STORE-004,Alexandria Store 4,Alexandria ,Central,Online Fulfillment Center
+STORE-005,Mansoura Store 5,Mansoura,Central,Physical Store
+STORE-006,Mansoura Store 6,Mansoura,East,Outlet
+STORE-007,Tanta Store 7,Tanta,West,Outlet
+STORE-008,Hurghada Store 8,Hurghada,West,Outlet
+STORE-009,Port Said Store 9,Port Said,West,Online Fulfillment Center
+STORE-010,Tanta Store 10,Tanta,East,Physical Store
+STORE-011,Aswan Store 11,Aswan,North,Physical Store
+STORE-012,Aswan Store 12,Aswan,Central,Outlet
+STORE-013,Tanta Store 13,Tanta ,East,Physical Store
+STORE-014,Port Said Store 14,Port Said,North,Online Fulfillment Center
+STORE-015,Luxor Store 15,Luxor,East,Physical Store
+STORE-016,Port Said Store 16,Port Said,South,Online Fulfillment Center
+STORE-017,Mansoura Store 17,Mansoura,South,Online Fulfillment Center
+STORE-018,Giza Store 18,Giza,North,Outlet
+STORE-019,Luxor Store 19,LUXOR,South,Physical Store
+STORE-020,Tanta Store 20,Tanta,West,Physical Store
+STORE-021,Mansoura Store 21,Mansoura,Central,Outlet
+STORE-022,Hurghada Store 22,Hurghada,East,Physical Store
+STORE-023,Tanta Store 23,Tanta,West,Outlet
+STORE-024,Zagazig Store 24,Zagazig,West,Physical Store
+STORE-025,Alexandria Store 25,Alexandria,South,Online Fulfillment Center
+STORE-026,Aswan Store 26,Aswan,Central,Outlet
+STORE-027,Giza Store 27,Giza,North,Outlet
+STORE-028,Hurghada Store 28,Hurghada,East,Online Fulfillment Center
+STORE-029,Tanta Store 29,Tanta,East,Physical Store
+STORE-030,Mansoura Store 30,Mansoura,Central,Online Fulfillment Center

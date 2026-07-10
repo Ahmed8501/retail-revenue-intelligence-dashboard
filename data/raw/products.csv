@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,brand,cost_price
+PROD-0001,StyleCraft Accessories Item 1,Electronics,Accessories,StyleCraft,65.0
+PROD-0002,CoreMax Accessories Item 2,Electronics,Accessories,CoreMax,12.79
+PROD-0003,FitZone Appliances Item 3,Home & Kitchen,Appliances,FitZone,180.42
+PROD-0004,PureGlow Fragrance Item 4,Beauty,Fragrance,PureGlow,149.37
+PROD-0005,CoreMax Audio Item 5,Electronics,Audio,CoreMax,88.36
+PROD-0006,UrbanLine Men Item 6,Fashion,Men,UrbanLine,98.08
+PROD-0007,NovaTech Shoes Item 7,Fashion,Shoes,NovaTech,183.78
+PROD-0008,StyleCraft Skincare Item 8,Beauty,Skincare,StyleCraft,208.2
+PROD-0009,UrbanLine Women Item 9,Fashion,Women,UrbanLine,16.23
+PROD-0010,FitZone Men Item 10,Fashion,Men,FitZone,217.29
+PROD-0011,HomePro Haircare Item 11,Beauty,Haircare,HomePro,95.69
+PROD-0012,HomePro Men Item 12,Fashion,Men,HomePro,135.86
+PROD-0013,StyleCraft Makeup Item 13,Beauty,Makeup,StyleCraft,247.43
+PROD-0014,BrightLife Outdoor Item 14,Sports,Outdoor,BrightLife,211.5
+PROD-0015,BrightLife Appliances Item 15,Home & Kitchen,Appliances,BrightLife,103.29
+PROD-0016,FitZone Footwear Item 16,Sports,Footwear,FitZone,165.58
+PROD-0017,StyleCraft Fragrance Item 17,Beauty,Fragrance,StyleCraft,39.21
+PROD-0018,CoreMax Footwear Item 18,Sports,Footwear,CoreMax,224.97
+PROD-0019,PureGlow Cookware Item 19,Home & Kitchen,Cookware,PureGlow,27.27
+PROD-0020,HomePro Audio Item 20,Electronics,Audio,HomePro,199.06
+PROD-0021,CoreMax Computers Item 21,Electronics,Computers,CoreMax,150.99
+PROD-0022,UrbanLine Men Item 22,Fashion,Men,UrbanLine,172.02
+PROD-0023,UrbanLine Shoes Item 23,Fashion,Shoes,UrbanLine,76.91
+PROD-0024,HomePro Smart Devices Item 24,Electronics,Smart Devices,HomePro,129.38
+PROD-0025,HomePro Women Item 25,Fashion,Women,HomePro,96.61
+PROD-0026,BrightLife Fitness Item 26,Sports,Fitness,BrightLife,124.71
+PROD-0027,FitZone Shoes Item 27,Fashion,Shoes,FitZone,19.19
+PROD-0028,PureGlow Accessories Item 28,Electronics,Accessories,PureGlow,204.93
+PROD-0029,HomePro Outdoor Item 29,Sports,Outdoor,HomePro,166.64
+PROD-0030,CoreMax Storage Item 30,Home & Kitchen,Storage,CoreMax,241.27
+PROD-0031,CoreMax Storage Item 31,Home & Kitchen,Storage,CoreMax,248.81
+PROD-0032,UrbanLine Makeup Item 32,Beauty,Makeup,UrbanLine,65.74
+PROD-0033,FitZone Audio Item 33,Electronics,Audio,FitZone,6.76
+PROD-0034,UrbanLine Audio Item 34,Electronics,Audio,UrbanLine,226.83
+PROD-0035,StyleCraft Audio Item 35,Electronics,Audio,StyleCraft,168.9
+PROD-0036,FitZone Cleaning Item 36,Home & Kitchen,Cleaning,FitZone,197.23
+PROD-0037,UrbanLine Appliances Item 37,Home & Kitchen,Appliances,UrbanLine,166.45
+PROD-0038,NovaTech Makeup Item 38,Beauty,Makeup,NovaTech,169.97
+PROD-0039,CoreMax Accessories Item 39,Electronics,Accessories,CoreMax,183.41
+PROD-0040,FitZone Audio Item 40,Electronics,Audio,FitZone,51.6
+PROD-0041,StyleCraft Fragrance Item 41,Beauty,Fragrance,StyleCraft,118.34
+PROD-0042,UrbanLine Computers Item 42,Electronics,Computers,UrbanLine,17.39
+PROD-0043,FitZone Accessories Item 43,Electronics,Accessories,FitZone,45.75
+PROD-0044,NovaTech Cleaning Item 44,,Cleaning,NovaTech,45.34
+PROD-0045,PureGlow Haircare Item 45,Beauty,Haircare,PureGlow,74.89
+PROD-0046,HomePro Equipment Item 46,Sports,Equipment,HomePro,51.52
+PROD-0047,BrightLife Accessories Item 47,Electronics,Accessories,BrightLife,19.01
+PROD-0048,NovaTech Outdoor Item 48,Sports,Outdoor,NovaTech,240.39
+PROD-0049,UrbanLine Appliances Item 49,Home & Kitchen,Appliances,UrbanLine,170.43
+PROD-0050,NovaTech Audio Item 50,Electronics,Audio,NovaTech,156.75
+PROD-0051,StyleCraft Footwear Item 51,Sports,Footwear,StyleCraft,55.04
+PROD-0052,CoreMax Storage Item 52,Home & Kitchen,Storage,CoreMax,37.07
+PROD-0053,UrbanLine Haircare Item 53,Beauty,Haircare,UrbanLine,7.28
+PROD-0054,UrbanLine Fitness Item 54,Sports,Fitness,UrbanLine,136.72
+PROD-0055,UrbanLine Storage Item 55,Home & Kitchen,Storage,UrbanLine,220.42
+PROD-0056,StyleCraft Cleaning Item 56,Home & Kitchen,Cleaning,StyleCraft,154.86
+PROD-0057,StyleCraft Fitness Item 57,Sports,Fitness,StyleCraft,233.28
+PROD-0058,UrbanLine Storage Item 58,Home & Kitchen,Storage,UrbanLine,222.98
+PROD-0059,StyleCraft Storage Item 59,Home & Kitchen,Storage,StyleCraft,153.18
+PROD-0060,PureGlow Storage Item 60,Home & Kitchen,Storage,PureGlow,66.52
+PROD-0061,CoreMax Accessories Item 61,Electronics,Accessories,CoreMax,208.19
+PROD-0062,StyleCraft Women Item 62,Fashion,Women,StyleCraft,44.59
+PROD-0063,UrbanLine Skincare Item 63,Beauty,Skincare,UrbanLine,23.43
+PROD-0064,BrightLife Appliances Item 64,Home & Kitchen,Appliances,BrightLife,147.71
+PROD-0065,StyleCraft Appliances Item 65,Home & Kitchen,Appliances,StyleCraft,94.34
+PROD-0066,FitZone Smart Devices Item 66,Electronics,Smart Devices,FitZone,172.11
+PROD-0067,HomePro Accessories Item 67,Fashion,Accessories,HomePro,231.81
+PROD-0068,CoreMax Cookware Item 68,Home & Kitchen,Cookware,CoreMax,11.07
+PROD-0069,FitZone Accessories Item 69,Fashion,Accessories,FitZone,70.37
+PROD-0070,NovaTech Computers Item 70,Electronics,Computers,NovaTech,215.36
+PROD-0071,StyleCraft Haircare Item 71,Beauty,Haircare,StyleCraft,206.03
+PROD-0072,FitZone Appliances Item 72,Home & Kitchen,Appliances,FitZone,102.62
+PROD-0073,BrightLife Smart Devices Item 73,Electronics,Smart Devices,BrightLife,162.16
+PROD-0074,NovaTech Footwear Item 74,Sports,Footwear,NovaTech,33.26
+PROD-0075,NovaTech Storage Item 75,Home & Kitchen,Storage,NovaTech,31.56
+PROD-0076,UrbanLine Accessories Item 76,Fashion,Accessories,UrbanLine,99.37
+PROD-0077,CoreMax Men Item 77,Fashion,Men,CoreMax,5.41
+PROD-0078,BrightLife Outdoor Item 78,Sports,Outdoor,BrightLife,110.67
+PROD-0079,UrbanLine Shoes Item 79,Fashion,Shoes,UrbanLine,181.34
+PROD-0080,BrightLife Accessories Item 80,Fashion,Accessories,BrightLife,103.59
+PROD-0081,CoreMax Cookware Item 81,Home & Kitchen,Cookware,CoreMax,167.91
+PROD-0082,CoreMax Storage Item 82,,Storage,CoreMax,139.24
+PROD-0083,CoreMax Women Item 83,Fashion,Women,CoreMax,197.51
+PROD-0084,PureGlow Accessories Item 84,Fashion,Accessories,PureGlow,113.33
+PROD-0085,UrbanLine Fragrance Item 85,Beauty,Fragrance,UrbanLine,74.53
+PROD-0086,UrbanLine Footwear Item 86,Sports,Footwear,UrbanLine,205.51
+PROD-0087,FitZone Women Item 87,Fashion,Women,FitZone,41.1
+PROD-0088,PureGlow Skincare Item 88,Beauty,Skincare,PureGlow,106.54
+PROD-0089,PureGlow Cleaning Item 89,Home & Kitchen,Cleaning,PureGlow,102.91
+PROD-0090,CoreMax Accessories Item 90,Electronics,Accessories,CoreMax,58.62
+PROD-0091,NovaTech Equipment Item 91,Sports,Equipment,NovaTech,141.56
+PROD-0092,HomePro Computers Item 92,Electronics,Computers,HomePro,201.35
+PROD-0093,PureGlow Footwear Item 93,Sports,Footwear,PureGlow,155.1
+PROD-0094,PureGlow Equipment Item 94,Sports,Equipment,PureGlow,224.82
+PROD-0095,StyleCraft Makeup Item 95,Beauty,Makeup,StyleCraft,189.19
+PROD-0096,FitZone Accessories Item 96,Fashion,Accessories,FitZone,72.28
+PROD-0097,StyleCraft Women Item 97,Fashion,Women,StyleCraft,87.28
+PROD-0098,HomePro Audio Item 98,Electronics,Audio,HomePro,61.66
+PROD-0099,CoreMax Appliances Item 99,Home & Kitchen,Appliances,CoreMax,104.86
+PROD-0100,FitZone Skincare Item 100,Beauty,Skincare,FitZone,209.06
+PROD-0101,CoreMax Fitness Item 101,Sports,Fitness,CoreMax,121.86
+PROD-0102,CoreMax Accessories Item 102,Fashion,Accessories,CoreMax,136.86
+PROD-0103,PureGlow Outdoor Item 103,Sports,Outdoor,PureGlow,58.76
+PROD-0104,BrightLife Computers Item 104,Electronics,Computers,BrightLife,168.87
+PROD-0105,HomePro Cleaning Item 105,Home & Kitchen,Cleaning,HomePro,245.28
+PROD-0106,UrbanLine Skincare Item 106,Beauty,Skincare,UrbanLine,162.47
+PROD-0107,NovaTech Fragrance Item 107,Beauty,Fragrance,NovaTech,68.74
+PROD-0108,BrightLife Haircare Item 108,Beauty,Haircare,BrightLife,191.5
+PROD-0109,UrbanLine Haircare Item 109,Beauty,Haircare,UrbanLine,120.23
+PROD-0110,FitZone Smart Devices Item 110,Electronics,Smart Devices,FitZone,164.29
+PROD-0111,FitZone Accessories Item 111,,Accessories,FitZone,53.84
+PROD-0112,HomePro Cookware Item 112,Home & Kitchen,Cookware,HomePro,121.02
+PROD-0113,StyleCraft Cleaning Item 113,Home & Kitchen,Cleaning,StyleCraft,192.89
+PROD-0114,HomePro Fitness Item 114,Sports,Fitness,HomePro,241.36
+PROD-0115,CoreMax Smart Devices Item 115,Electronics,Smart Devices,CoreMax,102.18
+PROD-0116,UrbanLine Audio Item 116,Electronics,Audio,UrbanLine,175.81
+PROD-0117,NovaTech Fitness Item 117,Sports,Fitness,NovaTech,90.06
+PROD-0118,BrightLife Men Item 118,Fashion,Men,BrightLife,8.1
+PROD-0119,CoreMax Skincare Item 119,Beauty,Skincare,CoreMax,240.39
+PROD-0120,CoreMax Fragrance Item 120,Beauty,Fragrance,CoreMax,48.15
+PROD-0121,PureGlow Accessories Item 121,Fashion,Accessories,PureGlow,111.72
+PROD-0122,FitZone Shoes Item 122,Fashion,Shoes,FitZone,208.53
+PROD-0123,PureGlow Fragrance Item 123,Beauty,Fragrance,PureGlow,144.61
+PROD-0124,PureGlow Men Item 124,Fashion,Men,PureGlow,213.48
+PROD-0125,StyleCraft Storage Item 125,Home & Kitchen,Storage,StyleCraft,88.38
+PROD-0126,FitZone Men Item 126,Fashion,Men,FitZone,25.98
+PROD-0127,PureGlow Fragrance Item 127,Beauty,Fragrance,PureGlow,163.25
+PROD-0128,StyleCraft Accessories Item 128,Electronics,Accessories,StyleCraft,59.29
+PROD-0129,PureGlow Shoes Item 129,Fashion,Shoes,PureGlow,140.6
+PROD-0130,BrightLife Footwear Item 130,Sports,Footwear,BrightLife,177.2
+PROD-0131,UrbanLine Women Item 131,Fashion,Women,UrbanLine,181.71
+PROD-0132,FitZone Outdoor Item 132,Sports,Outdoor,FitZone,58.01
+PROD-0133,UrbanLine Footwear Item 133,Sports,Footwear,UrbanLine,208.99
+PROD-0134,StyleCraft Women Item 134,Fashion,Women,StyleCraft,8.47
+PROD-0135,NovaTech Men Item 135,Fashion,Men,NovaTech,140.57
+PROD-0136,UrbanLine Cleaning Item 136,Home & Kitchen,Cleaning,UrbanLine,218.82
+PROD-0137,PureGlow Makeup Item 137,Beauty,Makeup,PureGlow,88.47
+PROD-0138,UrbanLine Accessories Item 138,Fashion,Accessories,UrbanLine,206.42
+PROD-0139,HomePro Accessories Item 139,Electronics,Accessories,HomePro,41.55
+PROD-0140,FitZone Men Item 140,Fashion,Men,FitZone,34.02
+PROD-0141,CoreMax Outdoor Item 141,Sports,Outdoor,CoreMax,115.38
+PROD-0142,StyleCraft Equipment Item 142,Sports,Equipment,StyleCraft,144.31
+PROD-0143,FitZone Audio Item 143,Electronics,Audio,FitZone,69.84
+PROD-0144,UrbanLine Cookware Item 144,Home & Kitchen,Cookware,UrbanLine,43.35
+PROD-0145,StyleCraft Equipment Item 145,Sports,Equipment,StyleCraft,13.0
+PROD-0146,UrbanLine Accessories Item 146,Fashion,Accessories,UrbanLine,173.41
+PROD-0147,CoreMax Outdoor Item 147,Sports,Outdoor,CoreMax,33.12
+PROD-0148,HomePro Storage Item 148,Home & Kitchen,Storage,HomePro,22.5
+PROD-0149,PureGlow Shoes Item 149,Fashion,Shoes,PureGlow,35.47
+PROD-0150,PureGlow Haircare Item 150,Beauty,Haircare,PureGlow,112.25
+PROD-0151,StyleCraft Haircare Item 151,Beauty,Haircare,StyleCraft,11.34
+PROD-0152,StyleCraft Fitness Item 152,Sports,Fitness,StyleCraft,146.18
+PROD-0153,PureGlow Cleaning Item 153,Home & Kitchen,Cleaning,PureGlow,229.44
+PROD-0154,PureGlow Equipment Item 154,Sports,Equipment,PureGlow,242.42
+PROD-0155,BrightLife Haircare Item 155,Beauty,Haircare,BrightLife,169.18
+PROD-0156,PureGlow Accessories Item 156,Fashion,Accessories,PureGlow,75.61
+PROD-0157,PureGlow Fitness Item 157,Sports,Fitness,PureGlow,26.57
+PROD-0158,NovaTech Computers Item 158,Electronics,Computers,NovaTech,166.13
+PROD-0159,FitZone Skincare Item 159,Beauty,Skincare,FitZone,132.02
+PROD-0160,NovaTech Makeup Item 160,Beauty,Makeup,NovaTech,54.87
+PROD-0161,PureGlow Accessories Item 161,Fashion,Accessories,PureGlow,34.75
+PROD-0162,HomePro Outdoor Item 162,,Outdoor,HomePro,81.13
+PROD-0163,FitZone Skincare Item 163,Beauty,Skincare,FitZone,248.1
+PROD-0164,HomePro Skincare Item 164,Beauty,Skincare,HomePro,127.1
+PROD-0165,CoreMax Footwear Item 165,Sports,Footwear,CoreMax,209.51
+PROD-0166,HomePro Cleaning Item 166,Home & Kitchen,Cleaning,HomePro,98.98
+PROD-0167,UrbanLine Outdoor Item 167,Sports,Outdoor,UrbanLine,72.68
+PROD-0168,StyleCraft Haircare Item 168,Beauty,Haircare,StyleCraft,206.03
+PROD-0169,HomePro Accessories Item 169,Fashion,Accessories,HomePro,114.4
+PROD-0170,PureGlow Accessories Item 170,Fashion,Accessories,PureGlow,233.55
+PROD-0171,FitZone Cleaning Item 171,Home & Kitchen,Cleaning,FitZone,214.72
+PROD-0172,CoreMax Accessories Item 172,Fashion,Accessories,CoreMax,99.59
+PROD-0173,NovaTech Cleaning Item 173,Home & Kitchen,Cleaning,NovaTech,35.93
+PROD-0174,PureGlow Men Item 174,Fashion,Men,PureGlow,29.43
+PROD-0175,CoreMax Audio Item 175,Electronics,Audio,CoreMax,218.38
+PROD-0176,StyleCraft Computers Item 176,Electronics,Computers,StyleCraft,87.95
+PROD-0177,CoreMax Smart Devices Item 177,Electronics,Smart Devices,CoreMax,238.76
+PROD-0178,UrbanLine Skincare Item 178,Beauty,Skincare,UrbanLine,62.52
+PROD-0179,UrbanLine Women Item 179,Fashion,Women,UrbanLine,111.32
+PROD-0180,HomePro Computers Item 180,Electronics,Computers,HomePro,175.03
