@@ -121,40 +121,7 @@ The main KPIs include:
 | Cost per Conversion          | Marketing spend divided by conversions                               |
 | Conversion Rate              | Conversions divided by clicks                                        |
 
-## Repository Structure
 
-```text
-retail-revenue-intelligence-dashboard/
-│
-├── data/
-│   ├── raw/
-│   ├── cleaned/
-│   └── output/
-│
-├── python/
-│   └── generate_sample_data.py
-│
-├── sql/
-│   ├── 01_create_raw_tables.sql
-│   ├── 02_clean_orders.sql
-│   ├── 03_clean_dimensions.sql
-│   ├── 04_build_fact_sales.sql
-│   └── 05_build_kpi_views.sql
-│
-├── dashboard/
-│   ├── retail_revenue_dashboard.pbix
-│   └── screenshots/
-│
-├── docs/
-│   ├── business_problem.md
-│   ├── data_dictionary.md
-│   ├── kpi_dictionary.md
-│   ├── data_model.md
-│   └── insights.md
-│
-├── README.md
-└── requirements.txt
-```
 
 ## Project Workflow
 
