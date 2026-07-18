@@ -82,6 +82,7 @@ SELECT
     END AS return_rate_pct,
 
     s.discount_amount,
+    s.gross_sales_before_discount,
 
     CASE
         WHEN s.gross_sales_before_discount = 0 THEN NULL
@@ -180,6 +181,7 @@ SELECT
     END AS return_rate_pct,
 
     s.discount_amount,
+    s.gross_sales_before_discount,
 
     CASE
         WHEN s.gross_sales_before_discount = 0 THEN NULL
