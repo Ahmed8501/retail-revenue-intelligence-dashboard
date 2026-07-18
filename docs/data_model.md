@@ -14,7 +14,7 @@ Raw Layer
 
 The raw layer contains the original synthetic CSV files loaded into DuckDB without major transformations.
 
-Raw tables:
+**Raw tables:**
 
 raw_orders
 
@@ -37,7 +37,8 @@ raw_marketing_spend
 raw_targets
 
 
-Clean Layer
+**Clean Layer**
+
 
 The clean layer standardizes and prepares the raw data for analysis.
 
