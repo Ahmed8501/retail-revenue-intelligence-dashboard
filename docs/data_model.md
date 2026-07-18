@@ -14,12 +14,12 @@ Raw Layer
 
 The raw layer contains the original synthetic CSV files loaded into DuckDB without major transformations.
 
-##**Raw tables:**
+## **Raw tables:**
 
-*raw_orders
+* raw_orders
 
 
-*raw_returns
+* raw_returns
 
 
 *raw_products
