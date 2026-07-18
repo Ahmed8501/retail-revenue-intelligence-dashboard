@@ -22,19 +22,19 @@ The raw layer contains the original synthetic CSV files loaded into DuckDB witho
 * raw_returns
 
 
-*raw_products
+* raw_products
 
 
-*raw_stores
+* raw_stores
 
 
-*raw_customers
+* raw_customers
 
 
-*raw_marketing_spend
+* raw_marketing_spend
 
 
-*raw_targets
+* raw_targets
 
 
 ## **Clean Layer**
@@ -42,94 +42,94 @@ The raw layer contains the original synthetic CSV files loaded into DuckDB witho
 
 The clean layer standardizes and prepares the raw data for analysis.
 
-Cleaning steps include:
+### Cleaning steps include:
 
-*Removing duplicate order rows
-
-
-*Standardizing mixed date formats
+* Removing duplicate order rows
 
 
-*Replacing missing customer IDs with GUEST
+* Standardizing mixed date formats
 
 
-*Cleaning inconsistent city formatting
+* Replacing missing customer IDs with GUEST
 
 
-*Replacing missing product categories with Unknown
+* Cleaning inconsistent city formatting
 
 
-*Casting numeric columns to proper data types
+* Replacing missing product categories with Unknown
 
 
-*Flagging suspicious discount values
-
-##Clean tables:
-
-*clean_orders
+* Casting numeric columns to proper data types
 
 
-*clean_returns
+* Flagging suspicious discount values
+
+## Clean tables:
+
+* clean_orders
 
 
-*clean_products
+* clean_returns
 
 
-*clean_stores
+* clean_products
 
 
-*clean_customers
+* clean_stores
 
 
-*clean_marketing_spend
+* clean_customers
 
 
-*clean_targets
+* clean_marketing_spend
 
 
-##Analytics Layer
+* clean_targets
+
+
+## Analytics Layer
 
 The analytics layer organizes the data into fact and dimension tables.
 
-Dimension tables:
+### Dimension tables:
 
-dim_product
-
-
-dim_store
+* dim_product
 
 
-dim_customer
-
-Fact tables:
-
-fact_sales
+* dim_store
 
 
-fact_returns
+* dim_customer
+
+* Fact tables:
+
+* fact_sales
 
 
-fact_marketing
+* fact_returns
 
 
-monthly_targets
+* fact_marketing
 
 
-KPI Views
+* monthly_targets
+
+
+## KPI Views
 
 The final KPI views are designed for Power BI dashboard consumption.
 
-Views:
+## Views:
 
-vw_executive_overview
-
-
-vw_product_performance
+* vw_executive_overview
 
 
-vw_store_region_performance
+* vw_product_performance
 
 
-vw_marketing_roi
+* vw_store_region_performance
+
+
+* vw_marketing_roi
 
 Each view supports a specific dashboard page.
