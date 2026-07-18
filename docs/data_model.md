@@ -14,80 +14,80 @@ Raw Layer
 
 The raw layer contains the original synthetic CSV files loaded into DuckDB without major transformations.
 
-**Raw tables:**
+##**Raw tables:**
 
-raw_orders
-
-
-raw_returns
+*raw_orders
 
 
-raw_products
+*raw_returns
 
 
-raw_stores
+*raw_products
 
 
-raw_customers
+*raw_stores
 
 
-raw_marketing_spend
+*raw_customers
 
 
-raw_targets
+*raw_marketing_spend
 
 
-**Clean Layer**
+*raw_targets
+
+
+## **Clean Layer**
 
 
 The clean layer standardizes and prepares the raw data for analysis.
 
 Cleaning steps include:
 
-Removing duplicate order rows
+*Removing duplicate order rows
 
 
-Standardizing mixed date formats
+*Standardizing mixed date formats
 
 
-Replacing missing customer IDs with GUEST
+*Replacing missing customer IDs with GUEST
 
 
-Cleaning inconsistent city formatting
+*Cleaning inconsistent city formatting
 
 
-Replacing missing product categories with Unknown
+*Replacing missing product categories with Unknown
 
 
-Casting numeric columns to proper data types
+*Casting numeric columns to proper data types
 
 
-Flagging suspicious discount values
+*Flagging suspicious discount values
 
-Clean tables:
+##Clean tables:
 
-clean_orders
-
-
-clean_returns
+*clean_orders
 
 
-clean_products
+*clean_returns
 
 
-clean_stores
+*clean_products
 
 
-clean_customers
+*clean_stores
 
 
-clean_marketing_spend
+*clean_customers
 
 
-clean_targets
+*clean_marketing_spend
 
 
-Analytics Layer
+*clean_targets
+
+
+##Analytics Layer
 
 The analytics layer organizes the data into fact and dimension tables.
 
