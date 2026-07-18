@@ -85,19 +85,20 @@ The Power BI dashboard contains four main pages:
 
 ### 1. Executive Overview
 
-Provides a high-level view of business performance, including revenue, gross profit, margin, orders, average order value, return rate, and target achievement.
+![Executive Overview](dashboard/screenshots/executive_overview.png)
 
 ### 2. Product Performance
 
-Analyzes product and category performance, including revenue, profit, margin, discounts, and return rates.
+![Product Performance](dashboard/screenshots/product_performance.png)
 
 ### 3. Store and Region Performance
 
-Compares store and regional performance based on revenue, profit, target achievement, and returns.
+![Store and Region Performance](dashboard/screenshots/store_region_performance.png)
 
 ### 4. Marketing ROI
 
-Evaluates marketing channels and campaigns using spend, attributed revenue, conversions, ROAS, and cost per conversion.
+![Marketing ROI](dashboard/screenshots/marketing_roi.png)
+
 
 ## Key KPIs
 
@@ -190,7 +191,6 @@ Planned phases:
 * Phase 4: KPI dictionary and data model documentation
 * Phase 5: Power BI dashboard development
 * Phase 6: Business insights and recommendations
-* Phase 7: Final GitHub and LinkedIn portfolio publishing
 
 ## Future Improvements
 
